@@ -16,7 +16,7 @@ Make sure you have the following installed on your system before proceeding:
 First, clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/dhanush-2313/Zerodha.git
+https://github.com/satyamsinghvishen007-maker/ZERODHA-CLONE.git
 ```
 
 ### Step 2: Install Dependencies and Start the Application
